@@ -1,1 +1,1 @@
-this repo is for backend javascript
+for backend javascript
